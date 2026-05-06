@@ -36,3 +36,4 @@ Notes and usage details for launchweek.dev.
 - clarify the setup steps
 - link the usage section
 - add a note about the defaults
+- add a note about the defaults
